@@ -3,4 +3,4 @@ Group project which involves a range of activities from scraping, cleansing to a
 
 Python packages and modules used - Scrapy, re, pandas, matplotlib, seaborn, numpy, datetime, statsmodels and geopandas.
 
-The attached ipynb file demonstrates the passion for soccer we possess and convert it into a professional project by leveraging our python skills. In simple words, it is a treasure of information and stats for all FIFA video game lovers!
+The attached ipynb file demonstrates the passion we possess for soccer and convert it into a professional project by leveraging our python skills. In simple words, it is a treasure of information and stats for all FIFA video game lovers!
